@@ -7,7 +7,7 @@
 - <b>Back-End Development:</b>
   - Experience with Node.js, PHP, and database management using MySQL.
 - <b>Programming Languages:</b>
-  - Knowledge in Python, C, and C++.
+  - Basic knowledge in Python, C, and C++.
 
 <h2>💼 Professional Experience:</h2>
 
